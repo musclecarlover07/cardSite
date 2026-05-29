@@ -45,6 +45,7 @@
                     <div>
                         <ul>
                             <li><a href="/cardSite/swu/swuCollection.php">Card List</a></li>
+                            <li><a href="/cardSite/swu/missing-playsets.php">Missing Playsets</a></li>
                             <li><a href="/cardSite/swu/index.php">Dashboard</a></li>
                         </ul>
                     </div>
